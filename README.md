@@ -1,2 +1,43 @@
-# LeetCode-DSA-Python-problem
-Solutions to LeetCode Data Structures &amp; Algorithms problems using Python 3.
+# 🧩 LeetCode DSA Solutions with Python
+
+Welcome to my **LeetCode Data Structures & Algorithms (DSA)** solutions repository! 🚀  
+This repository automatically tracks and logs my problem-solving journey on LeetCode using **Python 3**.
+
+---
+
+## 📌 About The Repository
+
+- **Language:** Python 3 🐍
+- **Auto-Synced via:** [LeetHub v2](https://github.com/arunsu/LeetHub-2.0)
+- **Goal:** Master core Data Structures, Algorithms, and Problem-Solving techniques to build optimized and efficient code.
+
+---
+
+## 🛠️ Data Structures & Topics Covered
+
+- [x] Basic Math & Number Theory
+- [ ] Arrays & Hashing
+- [ ] Two Pointers & Sliding Window
+- [ ] Stack & Queue
+- [ ] Linked List
+- [ ] Binary Search
+
+---
+
+## 📊 Progress & Stats
+
+*Automatically updated as I solve more problems on LeetCode.*
+
+| Difficulty | Solved |
+| :--- | :---: |
+| 🟢 **Easy** | 🟢 |
+| 🟡 **Medium** | 🟡 |
+| 🔴 **Hard** | 🔴 |
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 **LinkedIn:** [MD Nasim Ahmmed](https://www.linkedin.com/in/md-nasim-analyest19/)
+- 🧩 **LeetCode:** [md-nasim-ahmmed](https://leetcode.com/u/1c3tp6uqzW/)
+- 🐙 **GitHub:** [@nasim-ahmmed19](https://github.com/nasim-ahmmed19)
