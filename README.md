@@ -47,5 +47,14 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0258-add-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/2608-count-the-digits-that-divide-a-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
