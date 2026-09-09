@@ -48,6 +48,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0258-add-digits) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Simulation
@@ -58,4 +59,12 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
