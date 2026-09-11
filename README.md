@@ -63,6 +63,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
