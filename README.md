@@ -65,6 +65,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | ------- |
 | [0001-two-sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0283-move-zeroes) |
@@ -92,4 +93,12 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
