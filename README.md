@@ -68,6 +68,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -106,4 +108,8 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | ------- |
 | [0053-maximum-subarray](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
