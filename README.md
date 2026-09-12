@@ -56,6 +56,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0258-add-digits) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
@@ -71,12 +72,14 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
