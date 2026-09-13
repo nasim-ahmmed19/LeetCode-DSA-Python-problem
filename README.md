@@ -48,6 +48,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | ------- |
 | [0001-two-sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,5 +119,6 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
