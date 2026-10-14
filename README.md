@@ -56,6 +56,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -69,6 +70,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0128-longest-consecutive-sequence) |
@@ -120,5 +122,6 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
