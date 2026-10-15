@@ -67,6 +67,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0053-maximum-subarray) |
@@ -82,6 +83,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0283-move-zeroes) |
@@ -104,6 +106,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
