@@ -85,6 +85,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0704-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
