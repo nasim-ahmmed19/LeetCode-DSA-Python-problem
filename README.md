@@ -112,6 +112,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -142,4 +143,8 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0048-rotate-image](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0073-set-matrix-zeroes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
