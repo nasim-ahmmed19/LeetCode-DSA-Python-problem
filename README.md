@@ -88,6 +88,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0283-move-zeroes](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ This repository automatically tracks and logs my problem-solving journey on Leet
 | [0278-first-bad-version](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nasim-ahmmed19/LeetCode-DSA-Python-problem/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
